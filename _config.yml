@@ -1,3 +1,14 @@
-theme: jekyll-theme-cayman
+
+
 title: Portfolio
+
+author:
+  name: F White
+
 description: Scientific visualization
+
+url: https://whitef19.github.io
+
+# Build settings
+theme: jekyll-theme-cayman
+future: true
