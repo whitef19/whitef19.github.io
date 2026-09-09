@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
@@ -9,4 +9,4 @@ Welcome to my portfolio. I am a Computational Biologist specializing in transfor
 
 My goal is to ensuring every visualization serves as a powerful tool for both data interpretation and peer-reviewed publication.
 
-[My scientific posters](./Posters.html)
+[My scientific posters](Posters)
