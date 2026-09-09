@@ -1,12 +1,14 @@
 
-
-title: Portfolio
+title: My Portfolio
 
 author:
   name: F White
 
 description: Scientific visualization
 
+header_pages:
+  - Posters.md
+  
 url: https://whitef19.github.io
 
 # Build settings
