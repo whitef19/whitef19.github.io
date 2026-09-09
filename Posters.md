@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Scientific posters"
-permalink: /posters/
 ---
 
 ### 1. EpiClass
